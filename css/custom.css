@@ -14,9 +14,9 @@
 }
 
 #mainNav .navbar-logo {
-    background-image: url(../img/studhub_logo_y.png);
-    width: 150px;
-    height: 28px;
+    background-image: url(../img/logo_with_name1_sm.png);
+    width: 211px;
+    height: 51px;
     
 /*
     color: #fed136;
@@ -28,9 +28,9 @@
 #mainNav .navbar-logo:active,
 #mainNav .navbar-logo:focus,
 #mainNav .navbar-logo:hover {
-    background-image:url(../img/studhub_logo_y2.png);
-    width: 150px;
-    height: 28px;
+    background-image:url(../img/logo_with_name2_sm.png);
+    width: 211px;
+    height: 51px;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -57,9 +57,9 @@
         background-color: transparent
     }
     #mainNav .navbar-logo {
-        background-image:url(../img/studhub_logo_y_b.png);
-        width: 200px;
-        height: 37px;   
+        background-image:url(../img/logo_with_name1.png);
+        width: 281px;
+        height: 68px;   
 /*
         font-size: 1.75em;
         -webkit-transition: all .3s;
@@ -71,9 +71,9 @@
     #mainNav .navbar-logo:active,
     #mainNav .navbar-logo:focus,
     #mainNav .navbar-logo:hover {
-        background-image:url(../img/studhub_logo_y2_b.png);
-        width: 200px;
-        height: 37px;
+        background-image:url(../img/logo_with_name2.png);
+        width: 281px;
+        height: 68px;
     }
     
     #mainNav .navbar-nav .nav-item .nav-link {
